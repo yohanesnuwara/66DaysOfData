@@ -1,2 +1,5 @@
 # 66DaysOfData
-#66DaysOfData Challenge
+
+Plans:
+
+PCA, SVD, Text Similarity (Levenshtein distance), collinearity, heteroskedasticity

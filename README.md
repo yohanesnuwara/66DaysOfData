@@ -1,6 +1,10 @@
-# 66DaysOfData
+# 66 Days Of Data
 
 ![](https://img.shields.io/badge/learning-mode%20on-orange)
+
+<div>
+<img src="https://user-images.githubusercontent.com/51282928/124373371-0a516180-dcbc-11eb-911d-c60c8f42d701.png" width="600"/>
+</div>
 
 The purpose of following this challenge is to make learning as a habit a.k.a. LaaH (habitual learning). 
 

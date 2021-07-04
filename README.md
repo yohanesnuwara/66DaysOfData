@@ -6,8 +6,6 @@
 <img src="https://user-images.githubusercontent.com/51282928/124373371-0a516180-dcbc-11eb-911d-c60c8f42d701.png" width="600"/>
 </div>
 
-The purpose of following this challenge is to make learning as a habit a.k.a. LaaH (habitual learning). 
-
 Track my progress in this calendar [here](https://docs.google.com/document/d/15ouX0NwOSxwU9LlFM6odDd3h9E9zUusMGGSnxKzEWkE/edit?usp=sharing)
 
 Plans:

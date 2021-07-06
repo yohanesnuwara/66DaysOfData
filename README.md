@@ -10,4 +10,4 @@ Track my progress in this calendar [here](https://docs.google.com/document/d/15o
 
 Plans:
 
-Text Similarity (Levenshtein distance), collinearity, heteroskedasticity, data leakage, causality, knowledge graph, topic modeling, named entity recognition, customer churn analysis, prophet, reinforcement learning, timeseries outliers
+Text Similarity (Levenshtein distance), collinearity, heteroskedasticity, data leakage, causality, knowledge graph, topic modeling, named entity recognition, customer churn analysis, prophet, reinforcement learning, timeseries outliers, tensorflow probability, BERT

@@ -2,8 +2,6 @@
 
 ![](https://img.shields.io/badge/learning-mode%20on-orange)
 
-"Learning something doesn't mean you're a beginner. It means you are on the way to be an expert."
-
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/124373371-0a516180-dcbc-11eb-911d-c60c8f42d701.png" width="600"/>
 </div>

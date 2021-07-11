@@ -10,4 +10,4 @@ Track my progress in this calendar [here](https://docs.google.com/document/d/15o
 
 Plans:
 
-Fairness and bias, imbalanced classification, Text Similarity (Levenshtein distance), causality, regularization, regression metrics, classification metrics, confusion matrix, knowledge graph, topic modeling, named entity recognition, customer churn analysis, prophet, reinforcement learning, timeseries outliers, tensorflow probability, BERT, optimization, hyperparameters, Gaussian Mixture Model, Generalized Linear Model
+Text Similarity (Levenshtein distance), causality, regularization, regression metrics, knowledge graph, topic modeling, named entity recognition, customer churn analysis, prophet, reinforcement learning, timeseries outliers, tensorflow probability, BERT, optimization, hyperparameters, Gaussian Mixture Model, Generalized Linear Model

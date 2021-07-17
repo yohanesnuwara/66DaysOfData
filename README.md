@@ -10,4 +10,4 @@ Track my progress in this calendar [here](https://docs.google.com/document/d/15o
 
 Plans:
 
-web and text scrapping, topic modeling, causality, regularization, regression metrics, boosting vs bagging, knowledge graph, topic modeling, customer churn analysis, prophet, reinforcement learning, timeseries outliers, tensorflow probability, BERT, optimization, hyperparameters, Gaussian Mixture Model, Generalized Linear Model
+web and text scrapping, topic modeling, causality, regularization, regression metrics, boosting vs bagging, customer churn analysis, prophet, reinforcement learning, timeseries outliers, tensorflow probability, BERT, optimization, hyperparameters, Gaussian Mixture Model, Generalized Linear Model
